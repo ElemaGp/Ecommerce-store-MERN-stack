@@ -70,7 +70,7 @@ const Navbar = () => {
           <Language>EN</Language>
           <SearchContainer>
             <Input />
-            <Search />
+            <Search style={{color: "gray", fontSize: 16}}/>
           </SearchContainer>
         </Left>
         <Center><Logo>LAMA.</Logo></Center>
